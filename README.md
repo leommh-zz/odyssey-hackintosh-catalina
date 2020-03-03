@@ -24,6 +24,5 @@ Samsung Odyssey Hackintosh Catalina Config (Clover)
 ## Sem Funcionar
 
 - Wifi (Placa não compatível, provavelmente nunca terá compatibilidade)
-- Controle de brilho da tela (É possível corrigir futuramente)
 - Controle de brilho do teclado (É possível corrigir futuramente)
-- Nvidia 1050 (Atualmente (02/03/2020) não tem driver para Catalina)
+- Nvidia GTX 1050 (Atualmente (02/03/2020) não tem driver para Catalina)
