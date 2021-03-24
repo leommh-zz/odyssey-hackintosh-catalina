@@ -29,5 +29,4 @@ Modelo: Samsung Odyssey I5
 ## Sem Funcionar
 
 - Wifi (Placa não compatível, provavelmente nunca terá compatibilidade)
-- Controle de brilho do teclado (É possível corrigir futuramente)
 - Nvidia GTX 1050 (Atualmente (02/03/2020) não tem driver para Catalina)
