@@ -30,3 +30,7 @@ Modelo: Samsung Odyssey I5
 
 - Wifi (Placa não compatível, provavelmente nunca terá compatibilidade)
 - Nvidia GTX 1050 (Atualmente (02/03/2020) não tem driver para Catalina)
+
+## Configuração perfeita para teclados normais (o mais parecido com windows)
+![image](https://user-images.githubusercontent.com/10534281/124600749-6db6cd00-de3d-11eb-9ece-727ebdbb4f08.png)
+
